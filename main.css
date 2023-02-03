@@ -6,3 +6,7 @@ body {
 	align-items: center;
     box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.1);
 }
+
+p {
+font-size: 14 px;
+    }
